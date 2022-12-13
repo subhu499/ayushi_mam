@@ -1,0 +1,23 @@
+{
+  "name": "ayushi_mam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subhu499/ayushi_mam.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/subhu499/ayushi_mam/issues"
+  },
+  "homepage": "https://github.com/subhu499/ayushi_mam#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
